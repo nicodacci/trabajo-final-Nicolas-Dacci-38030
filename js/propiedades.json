@@ -1,6 +1,6 @@
 [
     {   
-       "imagen":"/trabajo-final-Nicolas-Dacci-38030/images/34961e2829075839e68a6987681aaa8f.jpg", 
+       "imagen":"/images/34961e2829075839e68a6987681aaa8f.jpg", 
        "id":4521,
        "m2":55,
        "ambientes":2,
@@ -8,7 +8,7 @@
        "estado": "DISPONIBLE"
     },
     {
-        "imagen":"/trabajo-final-Nicolas-Dacci-38030/images/af5a1c5ac281111785178c9bcfab63d8.jpg", 
+        "imagen":"/images/af5a1c5ac281111785178c9bcfab63d8.jpg", 
         "id":2541,
         "m2":55,
         "ambientes":2,
@@ -16,7 +16,7 @@
         "estado": "DISPONIBLE" 
     },
     {
-        "imagen":"/trabajo-final-Nicolas-Dacci-38030/images/channels4_profile.jpg", 
+        "imagen":"/images/channels4_profile.jpg", 
         "id":7894,
         "m2":55,
         "ambientes":2,
@@ -24,7 +24,7 @@
         "estado": "DISPONIBLE"  
     },
     {
-        "imagen":"/trabajo-final-Nicolas-Dacci-38030/images/Fachada-moderna-casa-dos-pisos-pequeña.jpg", 
+        "imagen":"/images/Fachada-moderna-casa-dos-pisos-pequeña.jpg", 
         "id":2549,
         "m2":55,
         "ambientes":2,
